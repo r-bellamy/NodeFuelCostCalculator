@@ -23,4 +23,4 @@ http.createServer(function (req, res) {
 	
 	res.write(`Total cost: &pound;${calculateFuelCost(q.miles)}`);
 	res.end(); //end the response
-}).listen(8080); //the server object listens on port 8080
+}).listen(80); //the server object listens on port 8080
