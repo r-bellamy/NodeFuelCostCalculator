@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "fuelcostcalculator",
+  "version": "1.0.0",
+  "main": "fuelcostcalculator.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node fuelcostcalculator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
